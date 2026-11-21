@@ -1,0 +1,6 @@
+sentence,label,pred_A,pred_B,label_name,pred_A_name,pred_B_name,A_correct,B_correct
+manages to be both repulsively sadistic and mundane . ,0,0,1,negative,negative,positive,1,0
+"the script kicks in , and mr. hartley 's distended pace and foot-dragging rhythms follow . ",0,1,0,negative,positive,negative,0,1
+what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about . ,0,1,0,negative,positive,negative,0,1
+hilariously inept and ridiculous . ,1,1,0,positive,positive,negative,1,0
+"though perry and hurley make inspiring efforts to breathe life into the disjointed , haphazard script by jay scherick and david ronn , neither the actors nor director reginald hudlin can make it more than fitfully entertaining . ",0,1,0,negative,positive,negative,0,1

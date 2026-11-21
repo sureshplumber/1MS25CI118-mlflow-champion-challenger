@@ -1,0 +1,19 @@
+{
+  "model": "textattack/bert-base-uncased-SST-2",
+  "role": "challenger",
+  "eval_samples": 200.0,
+  "accuracy": 0.925,
+  "macro_f1": 0.9249831212022706,
+  "macro_precision": 0.924942494249425,
+  "macro_recall": 0.9250700280112045,
+  "avg_latency_ms": 40.076889999982086,
+  "total_inference_s": 8.015377999996417,
+  "direction": {
+    "accuracy": "higher is better",
+    "macro_f1": "higher is better",
+    "macro_precision": "higher is better",
+    "macro_recall": "higher is better",
+    "avg_latency_ms": "lower is better",
+    "total_inference_s": "lower is better"
+  }
+}

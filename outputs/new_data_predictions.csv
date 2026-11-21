@@ -1,0 +1,21 @@
+id,text,prediction,prediction_name,score,expected_label,model_alias,registry_version,hf_model_id
+1,This movie is absolutely wonderful and heartwarming!,1,positive,0.99966,positive,champion,2,textattack/bert-base-uncased-SST-2
+2,"I completely hated this film, it was a total waste of time.",0,negative,0.999076,negative,champion,2,textattack/bert-base-uncased-SST-2
+3,A masterpiece of storytelling with brilliant performances throughout.,1,positive,0.999712,positive,champion,2,textattack/bert-base-uncased-SST-2
+4,Terrible acting and a nonsensical plot ruined the entire experience.,0,negative,0.999157,negative,champion,2,textattack/bert-base-uncased-SST-2
+5,The cinematography was breathtaking and the soundtrack was perfect.,1,positive,0.999651,positive,champion,2,textattack/bert-base-uncased-SST-2
+6,"I fell asleep halfway through, it was unbearably boring.",0,negative,0.998676,negative,champion,2,textattack/bert-base-uncased-SST-2
+7,One of the best films I have seen in many years!,1,positive,0.999589,positive,champion,2,textattack/bert-base-uncased-SST-2
+8,A disappointing sequel that fails to live up to the original.,0,negative,0.999099,negative,champion,2,textattack/bert-base-uncased-SST-2
+9,"A delightful, funny, and deeply touching movie for all ages.",1,positive,0.999753,positive,champion,2,textattack/bert-base-uncased-SST-2
+10,The worst movie I have ever watched in my entire life. Avoid at all costs.,0,negative,0.998693,negative,champion,2,textattack/bert-base-uncased-SST-2
+1,This movie is absolutely wonderful and heartwarming!,1,positive,0.999889,positive,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+2,"I completely hated this film, it was a total waste of time.",0,negative,0.999816,negative,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+3,A masterpiece of storytelling with brilliant performances throughout.,1,positive,0.999886,positive,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+4,Terrible acting and a nonsensical plot ruined the entire experience.,0,negative,0.999786,negative,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+5,The cinematography was breathtaking and the soundtrack was perfect.,1,positive,0.999878,positive,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+6,"I fell asleep halfway through, it was unbearably boring.",0,negative,0.999664,negative,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+7,One of the best films I have seen in many years!,1,positive,0.999873,positive,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+8,A disappointing sequel that fails to live up to the original.,0,negative,0.999795,negative,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+9,"A delightful, funny, and deeply touching movie for all ages.",1,positive,0.999892,positive,challenger,1,distilbert-base-uncased-finetuned-sst-2-english
+10,The worst movie I have ever watched in my entire life. Avoid at all costs.,0,negative,0.999792,negative,challenger,1,distilbert-base-uncased-finetuned-sst-2-english

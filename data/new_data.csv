@@ -1,0 +1,11 @@
+id,text,expected_label
+1,"This movie is absolutely wonderful and heartwarming!",positive
+2,"I completely hated this film, it was a total waste of time.",negative
+3,"A masterpiece of storytelling with brilliant performances throughout.",positive
+4,"Terrible acting and a nonsensical plot ruined the entire experience.",negative
+5,"The cinematography was breathtaking and the soundtrack was perfect.",positive
+6,"I fell asleep halfway through, it was unbearably boring.",negative
+7,"One of the best films I have seen in many years!",positive
+8,"A disappointing sequel that fails to live up to the original.",negative
+9,"A delightful, funny, and deeply touching movie for all ages.",positive
+10,"The worst movie I have ever watched in my entire life. Avoid at all costs.",negative

@@ -1,0 +1,19 @@
+{
+  "model": "distilbert-base-uncased-finetuned-sst-2-english",
+  "role": "champion",
+  "eval_samples": 200.0,
+  "accuracy": 0.915,
+  "macro_f1": 0.9149808706959066,
+  "macro_precision": 0.9165413533834585,
+  "macro_recall": 0.9156662665066027,
+  "avg_latency_ms": 21.067311500009964,
+  "total_inference_s": 4.213462300001993,
+  "direction": {
+    "accuracy": "higher is better",
+    "macro_f1": "higher is better",
+    "macro_precision": "higher is better",
+    "macro_recall": "higher is better",
+    "avg_latency_ms": "lower is better",
+    "total_inference_s": "lower is better"
+  }
+}
